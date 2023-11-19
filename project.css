@@ -1,0 +1,94 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+.img1{
+    background-image: url('img_parallax.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+    background-attachment: fixed;
+    
+    height: 100vh;
+    width: 100%;
+}
+.contain1{
+    background-color: white;
+    position: relative;
+    top: 300px;
+    left:590px;
+    display: inline;
+    padding: 20px;
+    height: 100px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.img2{
+    background-image: url('img_parallax2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100vw;   
+    height: 70vh;
+}
+.contain2{
+    color: white;
+    position: relative;
+    top: 200px;
+    left:550px;
+    display: inline;
+    padding: 20px;
+    height: 100px;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+.plain2{
+    height: 130px;
+    background-size: 100% 100%;
+    
+   
+   
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding-top: 60px;
+    padding-left: 50px;
+    background-size: 100%;
+}
+.img3{
+    background-image: url('img_parallax3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    height: 70vh;
+    opacity: 0.7;
+    width: 100vw
+}
+.contain3{
+    color:white;
+    background-color: black;
+    position: relative;
+    top: 250px;
+    left:590px;
+    display: inline;
+    padding: 20px;
+    height: 100px;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    width: 100%;
+    
+}
+.para
+{
+    height: 300px;
+    width: 100%;
+    padding-top: 26px;
+   
+}
